@@ -42,5 +42,6 @@ Situs : [Devuploads](https://devuploads.com/)
    ```
 + Masukan path dimana file yang akan diupload
 > Contoh : /sdcard/Donwload/MASUKAN_NAMA_FILE.txt
-> Disarankan menggunakan _ atau - sebagai pengganti spasi pada nama file agar terbaca
-> Tunggu sampai selesai dan akan muncul link download file yang sudah di upload tadi
+> 
+> <b>Disarankan menggunakan _ atau - sebagai pengganti spasi pada nama file agar terbaca<b/>
++ Tunggu sampai selesai dan akan muncul link download file yang sudah di upload tadi
