@@ -14,14 +14,14 @@ Disin Saya Contohkan Menggunakan Termux di Android
 (Disarankan menggunakan Termux dari Fdroid)
 • Pertama Install Termux
 • Lakukan update
-  ’''
+  ```
   apt update
   apt upgrade
   pkg install nano git -y
   git clone https://github.com/donydaily/devuploads
   cd devuploads
   chmod +x upload.sh
-  '''
+  ```
   
 • Settings API KEY
   Ambil API KEY yang telah dibuat tadi copy dan paste dibagian ini
