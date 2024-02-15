@@ -1,5 +1,5 @@
 # devuploads
-**Devuploads Terminal**
+**Devuploads Termux**
 
 Situs : [Devuploads](https://devuploads.com/)
 
@@ -10,8 +10,6 @@ Situs : [Devuploads](https://devuploads.com/)
 + Klik Generate Jika Belum Muncul
 
 **Installasi dan Clone Repo :**
-<p>Disin Saya Contohkan Menggunakan Termux di Android
-(Disarankan menggunakan Termux dari Fdroid)</p>
 + Pertama Install [Termux](https://f-droid.org/id/packages/com.termux/)
 + Lakukan update
   ```
@@ -23,7 +21,7 @@ Situs : [Devuploads](https://devuploads.com/)
   chmod +x upload.sh
   ```
 
-**Settings API KEY**
+**Settings API KEY :**
 Ambil API KEY yang telah dibuat tadi copy dan paste dibagian ini
   ```
   file_path=""
