@@ -4,16 +4,16 @@
 Situs : [Devuploads](https://devuploads.com/)
 
 <p>Registrasi dan Ambil API KEY :
-+Registrasi di https://devuploads.com/
-+Login dan Ambil API KEY
++ Registrasi di https://devuploads.com/
++ Login dan Ambil API KEY
    `Settings > API`
-+Klik Generate Jika Belum Muncul
++ Klik Generate Jika Belum Muncul
 
 Installasi dan Clone Repo :
 Disin Saya Contohkan Menggunakan Termux di Android
 (Disarankan menggunakan Termux dari Fdroid)
-+Pertama Install Termux
-+Lakukan update
++ Pertama Install Termux
++ Lakukan update
   ```
   apt update
   apt upgrade
