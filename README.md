@@ -4,10 +4,10 @@
 Situs : [Devuploads](https://devuploads.com/)
 
 <p>Registrasi dan Ambil API KEY :<p/>
-+ Registrasi di https://devuploads.com/
-+ Login dan Ambil API KEY
-   `Settings > API`
-+ Klik Generate Jika Belum Muncul
+   + Registrasi di https://devuploads.com/
+   * Login dan Ambil API KEY
+     `Settings > API`
+   - Klik Generate Jika Belum Muncul
 
 Installasi dan Clone Repo :
 Disin Saya Contohkan Menggunakan Termux di Android
