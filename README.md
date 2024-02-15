@@ -6,7 +6,9 @@ Situs : [Devuploads](https://devuploads.com/)
 **Registrasi dan Ambil API KEY :**
 + Registrasi di https://devuploads.com/
 + Login dan Ambil API KEY
-   `Settings > API`
+   `
+  Settings > API
+  `
 + Klik Generate Jika Belum Muncul
 
 **Installasi dan Clone Repo :**
