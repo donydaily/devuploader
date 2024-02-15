@@ -32,10 +32,13 @@ Disin Saya Contohkan Menggunakan Termux di Android
   server_url=""
   ```
   Dengan Perintah Berikut
-    nano upload.sh
+  ```
+  nano upload.sh
+  ```
   Simpan dengan klik CRTL+X Lalu y dan Enter
 
-  **Menggunakan Script**
+  **Menggunakan Script :**
+  Jalankan perintah ini
   ```
   sh upload.sh
   ```
