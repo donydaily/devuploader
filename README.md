@@ -24,16 +24,15 @@ Situs : [Devuploads](https://devuploads.com/)
   ```
 
 **Settings API KEY :**
- <p>Ambil API KEY yang telah dibuat tadi copy dan paste dibagian ini</p>
+```
+nano upload.sh
+```
++ Ambil API KEY yang telah dibuat tadi copy dan paste dibagian ini
    file_path=""
    api_key="PASTE DISINI"
    sess_id=""
    server_url=""
- Dengan perintah perikut
-   ```
-   nano upload.sh
-   ```
- Simpan dengan klik `CRTL+X` Lalu `y` dan `Enter`
++ Simpan dengan klik `CRTL+X` Lalu `y` dan `Enter`
 
 **Menggunakan Script :**
  ```
