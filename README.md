@@ -3,7 +3,7 @@ Devuploads Terminal
 
 Situs : https://devuploads.com/
 
-Registrasi dan Ambil API KEY :
+<p>Registrasi dan Ambil API KEY :<p/>
 • Registrasi di https://devuploads.com/
 • Login dan Ambil API KEY
    Settings > API
