@@ -36,7 +36,9 @@ Disin Saya Contohkan Menggunakan Termux di Android
   Simpan dengan klik CRTL+X Lalu y dan Enter
 
   **Menggunakan Script**
-  ```sh upload.sh```
+  ```
+  sh upload.sh
+  ```
   Lalu masukan path dimana file yang akan diupload
   Contoh : /sdcard/Donwload/MASUKAN_NAMA_FILE.txt
   Disarankan menggunakan _ atau - sebagai pengganti spasi pada nama file agar terbaca
