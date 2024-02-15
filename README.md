@@ -1,9 +1,9 @@
 # devuploads
 **Devuploads Terminal**
 
-Situs : https://devuploads.com/
+Situs : [Devuploads](https://devuploads.com/)
 
-<p>Registrasi dan Ambil API KEY :<p/>
+<p>Registrasi dan Ambil API KEY :
 • Registrasi di https://devuploads.com/
 • Login dan Ambil API KEY
    Settings > API
