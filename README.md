@@ -12,7 +12,7 @@ Situs : [Devuploads](https://devuploads.com/)
 Installasi dan Clone Repo :
 Disin Saya Contohkan Menggunakan Termux di Android
 (Disarankan menggunakan Termux dari Fdroid)
-+ Pertama Install Termux
++ Pertama Install [Termux](https://f-droid.org/id/packages/com.termux/)
 + Lakukan update
   ```
   apt update
