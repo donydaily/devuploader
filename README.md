@@ -23,8 +23,8 @@ Disin Saya Contohkan Menggunakan Termux di Android
   chmod +x upload.sh
   ```
 
-  **Settings API KEY**
-  Ambil API KEY yang telah dibuat tadi copy dan paste dibagian ini
+**Settings API KEY**
+Ambil API KEY yang telah dibuat tadi copy dan paste dibagian ini
   ```
   file_path=""
   api_key="PASTE DISINI"
@@ -37,7 +37,7 @@ Disin Saya Contohkan Menggunakan Termux di Android
   ```
   Simpan dengan klik CRTL+X Lalu y dan Enter
 
-  **Menggunakan Script :**
+**Menggunakan Script :**
   Jalankan perintah ini
   ```
   sh upload.sh
