@@ -41,8 +41,6 @@ Situs : [Devuploads](https://devuploads.com/)
    sh upload.sh
    ```
 + Masukan path dimana file yang akan diupload
-   ```
-   Contoh : /sdcard/Donwload/MASUKAN_NAMA_FILE.txt
-  Disarankan menggunakan _ atau - sebagai pengganti spasi pada nama file agar terbaca
-  Tunggu sampai selesai dan akan muncul link download file yang sudah di upload tadi
-   ```
+> Contoh : /sdcard/Donwload/MASUKAN_NAMA_FILE.txt
+> Disarankan menggunakan _ atau - sebagai pengganti spasi pada nama file agar terbaca
+> Tunggu sampai selesai dan akan muncul link download file yang sudah di upload tadi
