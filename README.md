@@ -24,9 +24,9 @@ Situs : [Devuploads](https://devuploads.com/)
   ```
 
 **Settings API KEY :**
-  ```
-  nano upload.sh
-  ```
+   ```
+   nano upload.sh
+   ```
 + Ambil API KEY yang telah dibuat tadi copy dan paste dibagian ini
   ```
    file_path=""
@@ -37,9 +37,9 @@ Situs : [Devuploads](https://devuploads.com/)
 + Simpan dengan klik `CRTL+X` Lalu `y` dan `Enter`
 
 **Menggunakan Script :**
-   ```
+    ```
     sh upload.sh
-   ```
+    ```
 + Masukan path dimana file yang akan diupload
    ```
    Contoh : /sdcard/Donwload/MASUKAN_NAMA_FILE.txt
