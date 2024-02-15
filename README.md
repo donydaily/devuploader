@@ -37,9 +37,9 @@ Situs : [Devuploads](https://devuploads.com/)
 + Simpan dengan klik `CRTL+X` Lalu `y` dan `Enter`
 
 **Menggunakan Script :**
-    ```
-    sh upload.sh
-    ```
+   ```
+   sh upload.sh
+   ```
 + Masukan path dimana file yang akan diupload
    ```
    Contoh : /sdcard/Donwload/MASUKAN_NAMA_FILE.txt
