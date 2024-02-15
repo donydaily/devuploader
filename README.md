@@ -25,23 +25,20 @@ Situs : [Devuploads](https://devuploads.com/)
 
 **Settings API KEY :**
 Ambil API KEY yang telah dibuat tadi copy dan paste dibagian ini
-  ```
   file_path=""
   api_key="PASTE DISINI"
   sess_id=""
   server_url=""
-  ```
-  Dengan Perintah Berikut
+Dengan perintah perikut
   ```
   nano upload.sh
   ```
-  Simpan dengan klik CRTL+X Lalu y dan Enter
+Simpan dengan klik `CRTL+X` Lalu `y` dan `Enter`
 
 **Menggunakan Script :**
-  Jalankan perintah ini
-  ```
-  sh upload.sh
-  ```
+ ```
+ sh upload.sh
+ ```
   Lalu masukan path dimana file yang akan diupload
   Contoh : /sdcard/Donwload/MASUKAN_NAMA_FILE.txt
   Disarankan menggunakan _ atau - sebagai pengganti spasi pada nama file agar terbaca
