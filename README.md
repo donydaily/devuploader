@@ -29,8 +29,11 @@ Situs : [Devuploads](https://devuploads.com/)
    ```
 + Ambil API KEY yang telah dibuat tadi copy dan paste dibagian ini
    > file_path=""
+   > 
    > api_key="PASTE DISINI"
+   > 
    > sess_id=""
+   > 
    > server_url=""
 + Simpan dengan klik `CRTL+X` Lalu `y` dan `Enter`
 
