@@ -3,6 +3,7 @@
 
 Situs : [Devuploads](https://devuploads.com/)
 
+
 **Registrasi dan Ambil API KEY :**
 + Registrasi di https://devuploads.com/
 + Login dan Ambil API KEY
@@ -10,6 +11,7 @@ Situs : [Devuploads](https://devuploads.com/)
   Settings > API
   `
 + Klik Generate Jika Belum Muncul
+
 
 **Installasi dan Clone Repo :**
 + Pertama Install [Termux](https://f-droid.org/id/packages/com.termux/)
@@ -22,6 +24,7 @@ Situs : [Devuploads](https://devuploads.com/)
   cd devuploads
   chmod +x upload.sh
   ```
+
 
 **Settings API KEY :**
    ```
@@ -36,6 +39,7 @@ Situs : [Devuploads](https://devuploads.com/)
 > 
 > server_url=""
 + Simpan dengan klik `CRTL+X` Lalu `y` dan `Enter`
+
 
 **Menggunakan Script :**
    ```
