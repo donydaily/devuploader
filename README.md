@@ -12,6 +12,14 @@ Situs : [Devuploads](https://devuploads.com/)
 + Klik Generate Jika Belum Muncul
 
 
+```
+git clone https://github com/donydaily/devuploader.git
+cd devuploader
+pip install -r req.txt
+python run.py
+```
+
+
 **Credits :**
 + [Devuploads](https://devuploads.com/)
 + [Google](https://google.com/)
